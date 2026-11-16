@@ -87,14 +87,14 @@ C) VORSCHLAG FÜR EINEN TESTRUNDGANG
 D) WAS DER IMPORT MACHT
 -----------------------
  - Jede Anlage (Kunde + Anlagenart) bekommt eine feste Nummer.
- - Zeiten aus Lukas' Liste werden den Anlagen zugeordnet. Abkürzungen
+ - Zeiten aus Liste werden den Anlagen zugeordnet. Abkürzungen
    wie "BS", "Gö", "WF" werden erkannt. Unsichere Zuordnungen stehen unter
    Pflege -> Prüfliste -> "Hinweise aus dem Import" zum Bestätigen.
  - Gruppen aus den zusammengefassten Zellen ("NUR zusammen terminieren")
    und aus Hinweisen wie "NUR zusammen mit Rathaus Peine".
  - Akkus aus der Access-Tabelle "Akku" (über die Straße zugeordnet).
  - Wartungen für das laufende und das nächste Jahr.
- - Lukas' Zeiten enthalten die Fahrt Firma <-> Kunde. Die App rechnet
+ - Zeiten enthalten die Fahrt von Firma <-> Kunde. Die App rechnet
    diese heraus und plant mit der reinen Zeit vor Ort plus den echten
    Wegen zwischen den Kunden.
 
